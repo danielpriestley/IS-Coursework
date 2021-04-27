@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "Project"
+		},
+		{
+			"path": "Context"
+		},
+		{
+			"path": "Entities"
+		},
+		{
+			"path": "ConsoleApp"
+		}
+	],
+	"settings": {}
+}

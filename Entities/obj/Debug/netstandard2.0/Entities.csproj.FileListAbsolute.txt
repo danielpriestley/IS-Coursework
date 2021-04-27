@@ -1,0 +1,8 @@
+/Users/danielpriestley/Development/Uni/internet-scripting/EXAM2/CourseworkTwo/CourseworkTwo/Entities/bin/Debug/netstandard2.0/Entities.deps.json
+/Users/danielpriestley/Development/Uni/internet-scripting/EXAM2/CourseworkTwo/CourseworkTwo/Entities/bin/Debug/netstandard2.0/Entities.dll
+/Users/danielpriestley/Development/Uni/internet-scripting/EXAM2/CourseworkTwo/CourseworkTwo/Entities/bin/Debug/netstandard2.0/Entities.pdb
+/Users/danielpriestley/Development/Uni/internet-scripting/EXAM2/CourseworkTwo/CourseworkTwo/Entities/obj/Debug/netstandard2.0/Entities.csprojAssemblyReference.cache
+/Users/danielpriestley/Development/Uni/internet-scripting/EXAM2/CourseworkTwo/CourseworkTwo/Entities/obj/Debug/netstandard2.0/Entities.AssemblyInfoInputs.cache
+/Users/danielpriestley/Development/Uni/internet-scripting/EXAM2/CourseworkTwo/CourseworkTwo/Entities/obj/Debug/netstandard2.0/Entities.AssemblyInfo.cs
+/Users/danielpriestley/Development/Uni/internet-scripting/EXAM2/CourseworkTwo/CourseworkTwo/Entities/obj/Debug/netstandard2.0/Entities.dll
+/Users/danielpriestley/Development/Uni/internet-scripting/EXAM2/CourseworkTwo/CourseworkTwo/Entities/obj/Debug/netstandard2.0/Entities.pdb
