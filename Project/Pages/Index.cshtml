@@ -1,0 +1,25 @@
+@page
+@model Chinook.App.AlbumsModel
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chinook</title>
+</head>
+
+<body>
+    @* Dynamic heading value is assigned from the Model *@
+    <h1>@Model.Heading1</h1>
+    <p>
+    @foreach (string name in Model.Albums)
+    {
+        @name<br>
+    }   
+    </p>
+    
+</body>
+
+</html>
