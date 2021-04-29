@@ -11,6 +11,12 @@
 		},
 		{
 			"path": "ConsoleApp"
+		},
+		{
+			"path": "API"
+		},
+		{
+			"path": "API-Consumer"
 		}
 	],
 	"settings": {}

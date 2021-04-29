@@ -21,6 +21,7 @@ namespace Chinook.App
             // Instance of the albums class which connects to the chinook.db
             ChinookDb db = new ChinookDb();
 
+            // Selects the albums data from the tables, assigns the values to the a variable.
             Albums = db.Albums.Select(a => a.AlbumId.ToString() + ". " + a.Title + ". " + a.ArtistId.ToString());
 
         }
