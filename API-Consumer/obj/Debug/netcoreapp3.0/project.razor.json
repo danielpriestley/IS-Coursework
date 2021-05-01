@@ -10215,8 +10215,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/danielpriestley/Development/Uni/internet-scripting/EXAM2/CourseworkTwo/CourseworkTwo/API-Consumer/Views/Album/AlbumById.cshtml",
+      "TargetPath": "Views\\Album\\AlbumById.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/danielpriestley/Development/Uni/internet-scripting/EXAM2/CourseworkTwo/CourseworkTwo/API-Consumer/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/danielpriestley/Development/Uni/internet-scripting/EXAM2/CourseworkTwo/CourseworkTwo/API-Consumer/Views/Album/AlbumDetail.cshtml",
+      "TargetPath": "Views\\Album\\AlbumDetail.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/danielpriestley/Development/Uni/internet-scripting/EXAM2/CourseworkTwo/CourseworkTwo/API-Consumer/Views/Home/Albums.cshtml",
+      "TargetPath": "Views\\Home\\Albums.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/danielpriestley/Development/Uni/internet-scripting/EXAM2/CourseworkTwo/CourseworkTwo/API-Consumer/Views/Album/index.cshtml",
+      "TargetPath": "Views\\Album\\index.cshtml",
       "FileKind": "mvc"
     }
   ],

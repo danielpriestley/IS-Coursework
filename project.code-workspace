@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "API-Consumer"
+		},
+		{
+			"path": "ChinookService"
 		}
 	],
 	"settings": {}

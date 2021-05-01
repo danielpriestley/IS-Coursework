@@ -1,6 +1,6 @@
-﻿@{
+﻿@* @{
     ViewData["Title"] = "Home Page";
-}
+} *@
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
@@ -10,13 +10,13 @@
     <th>Album ID</th>
     <th>Album Name</th>
     <th>Artist ID</th>
-    @foreach (var item in Model)
+    @* @foreach (var item in Model)
     {
         <tr>
         <td>@item.AlbumId</td>
         <td>@item.Title</td>
         <td>@item.ArtistId</td>
         </tr>
-    }
+    } *@
     </table>
 </div>

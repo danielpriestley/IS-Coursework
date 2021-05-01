@@ -35,3 +35,7 @@
 /Users/danielpriestley/Development/Uni/internet-scripting/EXAM2/CourseworkTwo/CourseworkTwo/API-Consumer/bin/Debug/netcoreapp3.0/Entities.dll
 /Users/danielpriestley/Development/Uni/internet-scripting/EXAM2/CourseworkTwo/CourseworkTwo/API-Consumer/bin/Debug/netcoreapp3.0/Entities.pdb
 /Users/danielpriestley/Development/Uni/internet-scripting/EXAM2/CourseworkTwo/CourseworkTwo/API-Consumer/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/danielpriestley/Development/Uni/internet-scripting/EXAM2/CourseworkTwo/CourseworkTwo/API-Consumer/obj/Debug/netcoreapp3.0/Razor/Views/Home/Albums.cshtml.g.cs
+/Users/danielpriestley/Development/Uni/internet-scripting/EXAM2/CourseworkTwo/CourseworkTwo/API-Consumer/obj/Debug/netcoreapp3.0/Razor/Views/Album/Index.cshtml.g.cs
+/Users/danielpriestley/Development/Uni/internet-scripting/EXAM2/CourseworkTwo/CourseworkTwo/API-Consumer/obj/Debug/netcoreapp3.0/Razor/Views/Album/AlbumById.cshtml.g.cs
+/Users/danielpriestley/Development/Uni/internet-scripting/EXAM2/CourseworkTwo/CourseworkTwo/API-Consumer/obj/Debug/netcoreapp3.0/Razor/Views/Album/AlbumDetail.cshtml.g.cs

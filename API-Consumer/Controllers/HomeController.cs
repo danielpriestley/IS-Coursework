@@ -23,6 +23,7 @@ namespace API_Consumer.Controllers
             _logger = logger;
         }
 
+
         public async Task<IActionResult> Index()
         {
             HttpClient client = new HttpClient();

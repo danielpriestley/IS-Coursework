@@ -51,6 +51,12 @@ namespace API_Consumer
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+                // endpoints.MapControllerRoute(
+                // name: "albums",
+                // pattern: "{controller=Albums}/{action=Index}/{id?}");
+
+
             });
         }
     }
